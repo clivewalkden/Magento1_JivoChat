@@ -1,0 +1,6 @@
+## Modman Module Sozo Jivochat
+app/code/community/Sozo/Jivochat/*         					app/code/community/Sozo/Jivochat/
+app/design/frontend/base/default/layout/sozo_jivochat.xml   app/design/frontend/base/default/layout/sozo_jivochat.xml
+app/design/frontend/base/default/template/sozo_jivochat/*	app/design/frontend/base/default/template/sozo_jivochat/
+app/etc/modules/Sozo_Jivochat.xml                           app/etc/modules/Sozo_Jivochat.xml
+app/locale/en_US/Sozo_Jivochat.csv         					app/locale/en_US/Sozo_Jivochat.csv

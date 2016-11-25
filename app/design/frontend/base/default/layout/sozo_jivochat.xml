@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<layout>
+  <default>
+    <reference name="before_body_end">
+      <block type="core/template" template="sozo_jivochat/chat.phtml">
+      </block>
+    </reference>
+  </default>
+</layout>
