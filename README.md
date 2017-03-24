@@ -1,8 +1,8 @@
-# Jivochat Magento 1 Plugin
+# JivoChat Magento 1 Plugin
 Beautiful, modern Live Chat that adapts to fit your site. Connect with more customers – and increase sales!
 Save your customers abandoning their cart while they email or phone you.
-Jivochat is on over 150,000 sites worldwide and offers 24/7 support and a free version for up to 5 agents.
-[View the plugin on Magento Connect (Awaiting approval)](https://www.magentocommerce.com/magento-connect/jivochat-1.html)
+JivoChat is on over 150,000 sites worldwide and offers 24/7 support and a free version for up to 5 agents.
+[View the plugin on Magento Marketplace (Awaiting approval)](https://marketplace.magento.com/jivochat.html)
 
 ## Features
 - Run different chat widgets on your multi store
