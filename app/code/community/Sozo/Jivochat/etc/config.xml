@@ -19,7 +19,7 @@
 <config>
     <modules>
         <Sozo_Jivochat>
-            <version>1.0.0</version>
+            <version>1.0.1</version>
         </Sozo_Jivochat>
     </modules>
     <global>
@@ -56,10 +56,8 @@
         <sozo_jivochat>
             <general>
                 <enabled>0</enabled>
-            </general>
-            <chatsetup>
                 <widget_id></widget_id>
-            </chatsetup>
+            </general>
         </sozo_jivochat>
     </default>
 </config>

@@ -19,7 +19,7 @@
 class Sozo_Jivochat_Helper_Data extends Mage_Core_Helper_Abstract
 {
     const XML_JIVOCHAT_ENABLED = 'sozo_jivochat/general/enabled';
-    const XML_JIVOCHAT_WIDGET_ID = 'sozo_jivochat/chatsetup/widget_id';
+    const XML_JIVOCHAT_WIDGET_ID = 'sozo_jivochat/general/widget_id';
 
     public function isEnabled($store = null)
     {
@@ -29,5 +29,15 @@ class Sozo_Jivochat_Helper_Data extends Mage_Core_Helper_Abstract
     public function getWidgetId($store = null)
     {
         return Mage::getStoreConfig(self::XML_JIVOCHAT_WIDGET_ID, $store);
+    }
+
+    /**
+     * Returns extension version.
+     *
+     * @return string
+     */
+    public function getExtensionVersion()
+    {
+        return (string) Mage::getConfig()->getNode()->modules->Sozo_Jivochat->version;
     }
 }

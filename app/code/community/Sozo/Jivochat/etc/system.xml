@@ -19,14 +19,14 @@
 <config>
     <tabs>
         <sozo translate="label" module="sozo_jivochat">
-            <label>Jivochat</label>
+            <label>JivoChat</label>
             <sort_order>2001</sort_order>
         </sozo>
     </tabs>
     <sections>
         <sozo_jivochat translate="label" module="sozo_jivochat">
             <class>separator-top</class>
-            <label>Jivochat</label>
+            <label>JivoChat</label>
             <tab>sozo</tab>
             <frontend_type>text</frontend_type>
             <sort_order>101</sort_order>
@@ -34,33 +34,21 @@
             <show_in_website>1</show_in_website>
             <show_in_store>1</show_in_store>
             <groups>
-                <general translate="label">
-                    <label>General</label>
-                    <frontend_type>text</frontend_type>
-                    <sort_order>0</sort_order>
+                <about>
+                    <frontend_model>sozo_jivochat/adminhtml_about</frontend_model>
+                    <sort_order>1</sort_order>
                     <show_in_default>1</show_in_default>
                     <show_in_website>1</show_in_website>
                     <show_in_store>1</show_in_store>
-                    <comment><![CDATA[<a href="http://bit.ly/2gmEB0m" target="_blank" title="Go to JivoChat Website">Sign Up to JivoChat to get an account</a>]]></comment>
+                </about>
+                <general translate="label">
+                    <label>General</label>
+                    <frontend_type>text</frontend_type>
+                    <sort_order>10</sort_order>
+                    <show_in_default>1</show_in_default>
+                    <show_in_website>1</show_in_website>
+                    <show_in_store>1</show_in_store>
                     <fields>
-                        <version>
-                            <label>Version</label>
-                            <frontend_type>text</frontend_type>
-                            <sort_order>0</sort_order>
-                            <show_in_default>1</show_in_default>
-                            <show_in_website>1</show_in_website>
-                            <show_in_store>1</show_in_store>
-                            <frontend_model>sozo_jivochat/system_config_form_fieldset_extensions</frontend_model>
-                        </version>
-                        <!-- <user_guide>
-                            <label>Documentations</label>
-                            <frontend_type>text</frontend_type>
-                            <sort_order>1</sort_order>
-                            <show_in_default>1</show_in_default>
-                            <show_in_website>1</show_in_website>
-                            <show_in_store>1</show_in_store>
-                            <frontend_model>sozo_jivochat/system_config_form_fieldset_documentations</frontend_model>
-                        </user_guide> -->
                         <enabled translate="label" module="sozo_jivochat">
                             <label>Enabled</label>
                             <frontend_type>select</frontend_type>
@@ -70,16 +58,6 @@
                             <show_in_website>1</show_in_website>
                             <show_in_store>1</show_in_store>
                         </enabled>
-                    </fields>
-                </general>
-                <chatsetup translate="label" module="sozo_jivochat">
-                    <label>Setup Information</label>
-                    <frontend_type>text</frontend_type>
-                    <sort_order>10</sort_order>
-                    <show_in_default>1</show_in_default>
-                    <show_in_website>1</show_in_website>
-                    <show_in_store>1</show_in_store>
-                    <fields>
                         <widget_id translate="label" module="sozo_jivochat">
                             <label>Widget ID</label>
                             <frontend_type>text</frontend_type>
@@ -89,7 +67,7 @@
                             <show_in_store>1</show_in_store>
                         </widget_id>
                     </fields>
-                </chatsetup>
+                </general>
             </groups>
         </sozo_jivochat>
     </sections>
