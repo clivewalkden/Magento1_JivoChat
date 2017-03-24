@@ -1,8 +1,15 @@
 {
   "name": "sozodesign/magento-jivochat",
-  "description": "A plugin for Magento that outputs the jivochat javascript code into the website",
+  "description": "A plugin for Magento that outputs the JivoChat javascript code into the website",
   "type": "magento-module",
-  "homepage": "https://bitbucket.org/sozodesign/magento-jivochat",
+  "homepage": "https://github.com/clivewalkden/Magento1_Jivochat",
+  "authors": [
+    {
+      "name": "Clive Walkden",
+      "email": "clive@sozodesign.co.uk",
+      "homepage": "http://www.sozodesign.co.uk"
+    }
+  ],
   "license": "OSL-3",
   "suggest": {
     "magento-hackathon/magento-composer-installer": "Allows the package to be installed into Magento"
