@@ -2,7 +2,7 @@
 Beautiful, modern Live Chat that adapts to fit your site. Connect with more customers – and increase sales!
 Save your customers abandoning their cart while they email or phone you.
 JivoChat is on over 150,000 sites worldwide and offers 24/7 support and a free version for up to 5 agents.
-[View the plugin on Magento Marketplace (Awaiting approval)](https://marketplace.magento.com/jivochat.html)
+[View the plugin on Magento Marketplace](https://marketplace.magento.com/sozodesign-sozo-jivochat.html)
 
 ## Features
 - Run different chat widgets on your multi store
@@ -25,3 +25,6 @@ It allows you to cover a bigger potential audience and increase the business res
 
 ## Start
 Signup [here](https://www.jivochat.com?partner_id=4942&lang=en&pricelist_id=4) to start your 10 day fully featured free trial. After 10 days you will switch to the free edition.
+
+## Change Log
+View the project [Change Log here](./CHANGELOG.md)
