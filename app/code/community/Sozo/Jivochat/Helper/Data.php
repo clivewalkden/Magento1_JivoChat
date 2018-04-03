@@ -11,7 +11,7 @@
  *
  * @category    SOZO Design
  * @package     Sozo_Jivochat
- * @copyright   Copyright (c) 2016 SOZO Design (http://www.sozodesign.com)
+ * @copyright   Copyright (c) 2018 SOZO Design (http://www.sozodesign.com)
  * @license     http://opensource.org/licenses/osl-3.0.php  Open Software License (OSL 3.0)
  *
  */
@@ -38,6 +38,6 @@ class Sozo_Jivochat_Helper_Data extends Mage_Core_Helper_Abstract
      */
     public function getExtensionVersion()
     {
-        return (string) Mage::getConfig()->getNode()->modules->Sozo_Jivochat->version;
+        return (string)Mage::getConfig()->getNode()->modules->Sozo_Jivochat->version;
     }
 }

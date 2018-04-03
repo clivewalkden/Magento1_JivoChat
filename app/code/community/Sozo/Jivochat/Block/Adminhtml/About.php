@@ -11,7 +11,7 @@
  *
  * @category    SOZO Design
  * @package     Sozo_Purechat
- * @copyright   Copyright (c) 2016 SOZO Design (http://www.sozodesign.com)
+ * @copyright   Copyright (c) 2018 SOZO Design (http://www.sozodesign.com)
  * @license     http://opensource.org/licenses/osl-3.0.php  Open Software License (OSL 3.0)
  *
  */
@@ -28,8 +28,8 @@ class Sozo_Jivochat_Block_Adminhtml_About
      */
     public function render(Varien_Data_Form_Element_Abstract $element)
     {
-        $element  = null;
-        $version  = Mage::helper('sozo_jivochat')->getExtensionVersion();
+        $element = null;
+        $version = Mage::helper('sozo_jivochat')->getExtensionVersion();
         $logopath = 'https://sozodesign.co.uk/images/magento/sozo_magento_plugin_about.png';
         $html = <<<HTML
 <div style="background: url('$logopath') no-repeat scroll 15px 15px #e7efef; border: 1px solid #ccc; min-height: 97px; margin: 5px 0; padding: 15px 15px 15px 180px;">
@@ -37,7 +37,7 @@ class Sozo_Jivochat_Block_Adminhtml_About
         <strong>SOZO JivoChat Plugin v$version</strong><br />
         Add the JivoChat widget to your pages.
         To use this plugin you must have a JivoChat account.<br />
-        <a href="http://bit.ly/2gmEB0m" target="_blank" title="Go to JivoChat Website">Sign Up here to get an account</a>
+        <a href="http://bit.ly/magento1-jivochat-signup" target="_blank" title="Go to JivoChat Website">Sign Up here to get an account</a>
     </p>
     <p>
         Control the look of your Chat window through your <a href="https://admin.jivosite.com/widgets" target="_blank">JivoChat dashboard</a>.
