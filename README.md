@@ -1,8 +1,8 @@
 # JivoChat Magento 1 Plugin
 
-[![License](https://poser.pugx.org/sozodesign/magento1-jivochat/license)](./LICENSE)
-[![Total Downloads](https://poser.pugx.org/sozodesign/magento1-jivochat/downloads)](https://packagist.org/packages/sozodesign/magento1-jivochat)
-[![Latest Stable Version](https://poser.pugx.org/sozodesign/magento1-jivochat/v/stable)](https://packagist.org/packages/sozodesign/magento1-jivochat)
+[![License](https://poser.pugx.org/sozodesign/magento-jivochat/license)](./LICENSE)
+[![Total Downloads](https://poser.pugx.org/sozodesign/magento-jivochat/downloads)](https://packagist.org/packages/sozodesign/magento-jivochat)
+[![Latest Stable Version](https://poser.pugx.org/sozodesign/magento-jivochat/v/stable)](https://packagist.org/packages/sozodesign/magento-jivochat)
 
 
 ## Overview
