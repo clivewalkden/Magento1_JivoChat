@@ -41,4 +41,4 @@ You can contact our support line at [info@jivochat.com](mailto:info@jivochat.com
 
 
 ## Usage
-see the [usage.md](./documentation/USAGE.MD) guide
+see the [usage.md](./documentation/USAGE.md) guide
