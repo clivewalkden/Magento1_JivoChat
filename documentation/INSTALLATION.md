@@ -9,7 +9,8 @@ With this integration you’ll be able to set JivoChat in your Magento 1.x store
 1. Purchase the plugin through Magento Marketplace and download the tgz file
 1. Turn off compilation mode before installing the plugin, this can be found in **System →  Tools →  Compilation**
 1. Login to Magento and go to **System →  Magento Connect →  Magento Connect Manager**
-1. Upload the package file from your local machine ![alt text](https://github.com/clivewalkden/Magento1_JivoChat/raw/master/documentation/images/direct-package-file-upload.png "Package file upload") 
+1. Upload the package file from your local machine 
+![alt text](https://github.com/clivewalkden/Magento1_JivoChat/raw/master/documentation/images/direct-package-file-upload.png "Package file upload") 
 1. After installation has completed, click the Return to Admin link at the top.
 1. Logout the admin and log back in again
 1. Turn on compilation again in **System →  Tools →  Compilation**

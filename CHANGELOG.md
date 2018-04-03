@@ -17,12 +17,15 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 
  - Updated author url in [composer.json](./composer.json)
  - Moved [Installation.md](./documentation/INSTALLATION.md) to the [documentation](./documentation) directory.
+ - Updated copyright year
+ - Fixes from the EQP
 
 ### Added
 
  - [Usage](./documentation/USAGE.md)
  - [Change log](./CHANGELOG.md)
-
+ - PDF versions of the Installation and Usage instructions
+ 
 
 ## [v1.0.1] - 2017-03-24
 
