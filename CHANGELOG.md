@@ -4,10 +4,14 @@ All notable changes to this project will be documented in this file.
 This project adheres to [Semantic Versioning](http://semver.org/).
 
  * [\[Unreleased\]](#unreleased)
+ * [\[v1.0.2\] - 2018-04-03](#v102---2018-04-03)
  * [\[v1.0.1\] - 2017-03-24](#v101---2017-03-24)
  * [\[v1.0.0\] - 2016-11-25](#v100---2016-11-25)
 
 ## [Unreleased]
+
+
+## [v1.0.2] - 2018-04-03
 
 ### Changed
 
