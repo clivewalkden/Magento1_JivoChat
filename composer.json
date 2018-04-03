@@ -10,7 +10,7 @@
       "homepage": "https://sozodesign.co.uk"
     }
   ],
-  "license": "OSL-3",
+  "license": "OSL-3.0",
   "suggest": {
     "magento-hackathon/magento-composer-installer": "Allows the package to be installed into Magento"
   }

@@ -12,10 +12,13 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 ### Changed
 
  - Updated author url in [composer.json](./composer.json)
+ - Moved [Installation.md](./documentation/INSTALLATION.md) to the [documentation](./documentation) directory.
 
 ### Added
 
+ - [Usage](./documentation/USAGE.md)
  - [Change log](./CHANGELOG.md)
+
 
 ## [v1.0.1] - 2017-03-24
 
@@ -31,6 +34,7 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 ### Added
 
  - [Installation guide](./Installation.md)
+
 
 ## [v1.0.0] - 2016-11-25
 
